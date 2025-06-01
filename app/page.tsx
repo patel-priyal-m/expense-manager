@@ -1,7 +1,7 @@
-import Image from "next/image";
+import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
-    <div>Init next js</div>
+    <Button>Init next js</Button>
   );
 }
